@@ -26,15 +26,12 @@ You can even include details from after reincarnation:
 Whatever you imagine can be added.
 </details>
 
-
-### Example Characters
-Below are a few example characters I experimented with. All are set in the Harry Potter universe, as it was the only world available when this guide was first written. I'll add more examples from different worlds as they become available.
-
 ### Example Characters
 Below are a few example characters I experimented with. All are set in the Harry Potter universe, as it was the only world available when this guide was first written. I'll add more examples from different worlds as they become available.
 
 <details>
 <summary>Harry Potter World</summary>
+---
 
 **Tom Hawthorne**
 
