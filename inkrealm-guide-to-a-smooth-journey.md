@@ -36,13 +36,13 @@ Below are a few example characters I experimented with. All are set in the Harry
 
 **Tom Hawthorne**
 
-Tom Riddle experienced all the events of the Harry Potter series. Through unknown magic, he was reincarnated. His powers and knowledge remained intact. Now, he plans to correct his past mistakes and prove that nothing can stop the Dark Lord!
+> Tom Riddle experienced all the events of the Harry Potter series. Through unknown magic, he was reincarnated. His powers and knowledge remained intact. Now, he plans to correct his past mistakes and prove that nothing can stop the Dark Lord!
 
 ---
 
 **Plagus Wise**
 
-The literal God of magic. He chose to reincarnate into this world for entertainment.
+> The literal God of magic. He chose to reincarnate into this world for entertainment.
 
 Despite the simple prompt, this character led to a heartfelt story about a god discovering the joys of human connection. He can do anything, but was lonely—now, he simply enjoys making friends.
 
@@ -50,7 +50,7 @@ Despite the simple prompt, this character led to a heartfelt story about a god d
 
 **Sai Copath**
 
-In his previous life, he mastered mental magic. After death, he was reincarnated—and his mental powers came with him.
+> In his previous life, he mastered mental magic. After death, he was reincarnated—and his mental powers came with him.
 
 This created a fun narrative about someone with mental abilities far beyond those of ordinary wizards.
 
@@ -58,9 +58,9 @@ This created a fun narrative about someone with mental abilities far beyond thos
 
 **Alex Winters**
 
-This isn’t just a reincarnation—it’s an *isekai*! If this were an anime, the title would be: *I Died and Was Reincarnated into the Harry Potter Universe as an Overpowered Genius, and Now I'm Building a Harem in Another World.*
+> This isn’t just a reincarnation—it’s an *isekai*! If this were an anime, the title would be: *I Died and Was Reincarnated into the Harry Potter Universe as an Overpowered Genius, and Now I'm Building a Harem in Another World.*
 
-Alex masters any spell instantly—but all he cares about are the girls. He wants to build the largest harem the world has ever seen. Oh, and Truck-kun killed him in his past life.
+> Alex masters any spell instantly—but all he cares about are the girls. He wants to build the largest harem the world has ever seen. Oh, and Truck-kun killed him in his past life.
 
 Yes, I created this character. It was a fun joke, and the AI embraced it fully. I include it here to show that you don’t need to be rigid when creating character backgrounds. You can even prompt the AI to begin the story with time skips by describing post-reincarnation events in the background.
 
@@ -68,7 +68,7 @@ Yes, I created this character. It was a fun joke, and the AI embraced it fully. 
 
 **Dark Wizard**
 
-Dark was born in his first life over 100 years after the events of Harry Potter. He studied Voldemort’s rise and fall obsessively, learning everything he could about the Dark Arts, hoping to emulate him. Before he could become a powerful dark wizard, he died.
+> Dark was born in his first life over 100 years after the events of Harry Potter. He studied Voldemort’s rise and fall obsessively, learning everything he could about the Dark Arts, hoping to emulate him. Before he could become a powerful dark wizard, he died.
 
 Now, he’s been reincarnated during Voldemort’s second rise. He knows the future. He knows how Voldemort failed. This time, he will become the Dark Lord’s apprentice—and ensure victory.
 
