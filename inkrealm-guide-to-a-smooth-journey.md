@@ -78,16 +78,25 @@ Now, he’s been reincarnated during Voldemort’s second rise. He knows the fut
 
 <details>
 <summary>Time Skips</summary>
+
+---
+
 If a plot point is dragging, you can move the story forward with a custom choice.
 
 **Example:** [Harry Potter world] "He spent time with his family and enjoyed their activities, but now it was time to leave for Hogwarts."
 
 This prompts the AI to summarize intervening events and advance the plot. This is especially useful for skipping introductory scenes and jumping into the main story.
+
+---
+
 </details>
 
 
 <details>
 <summary>The AI Lies</summary>
+
+---
+
 Sometimes, when you input a custom action, the AI may claim something can’t be done—despite clear context suggesting otherwise.
 
 You can correct this by re-entering your prompt with your reasoning at the beginning.
@@ -99,21 +108,32 @@ You can correct this by re-entering your prompt with your reasoning at the begin
 I re-entered the prompt with: *(She can do this because the letter is on her desk. This was referenced in the scene.)*
 
 This reminded the AI of the context, and she proceeded as intended.
+
+---
+
 </details>
 
 
 <details>
 <summary>Feedback</summary>
 
+---
+
 The above principle also applies to the feedback option. You don’t need to be as detailed as with a custom prompt—usually, a simple explanation of what’s wrong is enough.
 
 **Example:**
 > The character was supposed to steal that object, not buy it.
+
+---
+
 </details>
 
 
 <details>
 <summary>Fighting Feedback</summary>
+
+---
+
 Sometimes, the AI will resist your feedback.
 
 **Example:**
@@ -122,11 +142,17 @@ Sometimes, the AI will resist your feedback.
 - **Feedback:** The character *was* supposed to steal it. They wouldn’t hesitate—they’ve already decided and will follow through.
 
 I’ve found it helpful to copy your feedback before sending. If the AI pushes back, paste it and add clarification. This may take multiple attempts—the AI can be stubborn.
+
+---
+
 </details>
 
 
 <details>
 <summary>Your Choices Matter in Unexpected Ways</summary>
+
+---
+
 It’s obvious that your choices shape the story—choosing to attack someone will lead to consequences. But less obvious is that your choices can introduce new possibilities that wouldn’t exist otherwise.
 
 **Example:** Suppose a choice says: *"Ask if going to that location is even allowed. Make sure you aren’t breaking any rules."*
@@ -134,39 +160,66 @@ It’s obvious that your choices shape the story—choosing to attack someone wi
 This seemingly innocent option now introduces the idea that the location might be restricted. The problem of accessing it likely wouldn’t exist if you hadn’t raised the question.
 
 Remember: sometimes, choices create problems that wouldn’t have existed otherwise. Use custom prompts wisely.
+
+---
+
 </details>
 
 
 <details>
 <summary>Remembering Characters</summary>
+
+---
+
 The AI may temporarily overlook secondary characters if you haven’t interacted with them recently. It hasn’t forgotten—they just need a reminder.
 
 For example, Plagus created an intelligent familiar cat named Nyx, who held conversations with him. Occasionally, I’d add a custom choice like:
 > "Plagus talked with Nyx about the day’s events."
 
 This reminded the AI to bring Nyx back, often with a brief summary of what she’d been doing since last seen.
+
+---
+
 </details>
 
 
 <details>
 <summary>Ignoring Choices</summary>
+
+---
+
 Sometimes, the AI appears to ignore your choice. Often, it hasn’t—it’s just saving it for a more appropriate moment. If your action makes more sense later, the AI may delay it.
 
 Occasionally, it truly does ignore your choice. In such cases, the feedback option usually resolves the issue.
+
+---
+
 </details>
 
 
 <details>
 <summary>Playing Evil Characters</summary>
+
+---
+
 When playing truly evil characters, the AI may resist—pushing your character toward moral or redemptive choices, even when you specify otherwise.
 
 This type of playthrough usually requires more frequent feedback. You may need to repeatedly assert that your character *will* act on their evil intentions. Until they do, the AI will often try to steer them toward being a 'good guy'.
+
+---
+
 </details>
 
 
 <details>
 <summary>Messing with Canon</summary>
+
+---
+
 The further your game strays from canon events, the more AI may list incorrect things in its choices. The actual story should still run normally, but the choices given by the AI won't always make sense in context. In short, the further off canon story events you go, the more you may need to use custom prompts.
+
+---
+
 </details>
 
 
