@@ -70,7 +70,7 @@ Yes, I created this character. It was a fun joke, and the AI embraced it fully. 
 
 > Dark was born in his first life over 100 years after the events of Harry Potter. He studied Voldemort’s rise and fall obsessively, learning everything he could about the Dark Arts, hoping to emulate him. Before he could become a powerful dark wizard, he died.
 
-Now, he’s been reincarnated during Voldemort’s second rise. He knows the future. He knows how Voldemort failed. This time, he will become the Dark Lord’s apprentice—and ensure victory.
+> Now, he’s been reincarnated during Voldemort’s second rise. He knows the future. He knows how Voldemort failed. This time, he will become the Dark Lord’s apprentice—and ensure victory.
 
 </details>
 
